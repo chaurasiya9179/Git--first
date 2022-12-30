@@ -1,18 +1,2 @@
 Generating public/private ed25519 key pair.
-Enter file in which to save the key (/c/Users/HOME/.ssh/id_ed25519): Your identification has been saved in /c/Users/HOME/.ssh/id_ed25519
-Your public key has been saved in /c/Users/HOME/.ssh/id_ed25519.pub
-The key fingerprint is:
-SHA256:Q9xYsDVeVjuh925Zc1Pq5I1WoHhAjDcPJEihH1j15b8 you@example.com
-
-The key's randomart image is:
-+--[ED25519 256]--+
-|     .+++=* +.o  |
-|     +...@=* . o |
-|    o . =.=+o = .|
-|     . o   o.+ =.|
-|      . S . o +o=|
-|         . . + **|
-|              E.+|
-|             . . |
-|                 |
-+----[SHA256]-----+
+Enter file in which to save the key (/c/Users/HOME/.ssh/id_ed25519): 
